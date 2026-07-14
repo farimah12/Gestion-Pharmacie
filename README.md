@@ -49,14 +49,14 @@ PHARMACIE/
 
 1. Clone ce dépôt dans le dossier `htdocs` de XAMPP :
 ```bash
-git clone https://github.com/farimah12/NOM-DU-REPO.git
+git clone https://github.com/farimah12/Gestion-Pharmacie.git
 ```
 2. Démarre **Apache** et **MySQL** depuis le panneau de contrôle XAMPP.
 3. Importe la base de données :
    - Ouvre **phpMyAdmin**
    - Onglet **Importer** → sélectionne `pharmacie_db.sql`
    - La base `pharmacie_db` sera créée automatiquement avec des données de test
-4. Accède à l'application : `http://localhost/NOM-DU-REPO/index.php`
+4. Accède à l'application : `http://localhost/PHARMACIE/index.php`
 
 ## 🔑 Identifiants de démonstration
 
