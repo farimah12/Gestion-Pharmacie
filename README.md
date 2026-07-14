@@ -71,6 +71,6 @@ Mot de passe commun : **12345**
 
 ## 👩‍💻 Auteure
 
-**Adji Farimata Cissé**
+**Adji Farimata CISSE**
 Étudiante en Génie Logiciel — ISI, Dakar
 📧 adjifarimahcisse@gmail.com
