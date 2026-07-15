@@ -56,7 +56,7 @@ git clone https://github.com/farimah12/Gestion-Pharmacie.git
    - Ouvre **phpMyAdmin**
    - Onglet **Importer** → sélectionne `pharmacie_db.sql`
    - La base `pharmacie_db` sera créée automatiquement avec des données de test
-4. Accède à l'application : `http://localhost/PHARMACIE/index.php`
+4. Accède à l'application : `http://localhost/Gestion-Pharmacie/index.php`
 
 ## 🔑 Identifiants de démonstration
 
